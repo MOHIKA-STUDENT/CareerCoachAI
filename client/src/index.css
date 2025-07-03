@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+
+.animate-floatUpDown {
+    animation: floatUpDown 4s ease-in-out infinite;
+}
+
+@keyframes popIn {
+    0% {
+        transform: scale(0.95);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.animate-pop {
+    animation: popIn 0.3s ease-in-out;
+}
+
+/* Add this to your global CSS or Tailwind config if needed */
+input::-ms-reveal,
+input::-ms-clear {
+    display: none;
+}
+
+input::-webkit-credentials-auto-fill-button,
+input::-webkit-clear-button,
+input::-webkit-inner-spin-button {
+    display: none !important;
+}
+
+input[type="password"]::-ms-reveal {
+    display: none;
+}
+
+

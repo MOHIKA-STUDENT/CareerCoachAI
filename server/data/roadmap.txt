@@ -1,0 +1,13 @@
+To become a Frontend Developer:
+1. Learn HTML, CSS, and JavaScript.
+2. Study modern frameworks like React or Vue.
+3. Build portfolio projects.
+4. Contribute to GitHub.
+5. Apply for internships.
+
+To become a Data Scientist:
+1. Learn Python, statistics, and data analysis.
+2. Practice with pandas, NumPy, scikit-learn.
+3. Work on datasets (Kaggle, real-world).
+4. Learn about ML, DL, and deploy projects.
+5. Network and apply.
