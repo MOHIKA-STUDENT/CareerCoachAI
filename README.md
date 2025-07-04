@@ -142,6 +142,6 @@ Made with ❤️ by [Mohika Ravindra Sondkar](https://www.linkedin.com/in/mohika
 
 📹 **Watch the Project Demo**: [Click here to view the video](https://drive.google.com/file/d/16NsK7TaeE4reqfUa_c6FDi3MagDK0hvg/view?usp=drive_link)
 
-Feel free to connect with me on LinkedIn and check out more of my work!
+
 
 
