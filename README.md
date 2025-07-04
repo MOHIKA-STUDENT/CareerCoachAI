@@ -135,3 +135,8 @@ npm start
  ✅ Make sure you have **Ollama with Llama 3** running locally before using the AI chat, roadmap, or resume features.
 
 ---
+
+## 🙋‍♀️ About the Developer
+
+Made with ❤️ by [Mohika Ravindra Sondkar](https://www.linkedin.com/in/mohika-sondkar-b5b03b258)
+
